@@ -1,7 +1,7 @@
 import axios from 'axios'
 // import { Spin } from 'iview'
 class HttpRequest {
-  constructor (baseUrl = baseURL) {
+  constructor (baseUrl) {
     this.baseUrl = baseUrl
     this.queue = {}
   }
