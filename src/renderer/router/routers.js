@@ -286,7 +286,7 @@ export default [
           title: '二级-3'
         },
         component: () => import('@/view/multilevel/level-2-3.vue')
-      },
+      }
     ]
   },
   {
