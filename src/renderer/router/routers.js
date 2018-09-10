@@ -53,7 +53,7 @@ export default [
     }
   },
   {
-    path: '/join',
+    path: '/',
     name: 'join',
     component: Main,
     children: [
@@ -69,7 +69,7 @@ export default [
     ]
   },
   {
-    path: '/components',
+    path: '/',
     name: 'components',
     meta: {
       icon: 'logo-buffer',
@@ -143,7 +143,7 @@ export default [
     ]
   },
   {
-    path: '/update',
+    path: '/',
     name: 'update',
     meta: {
       icon: 'md-cloud-upload',
@@ -172,7 +172,7 @@ export default [
     ]
   },
   {
-    path: '/excel',
+    path: '/',
     name: 'excel',
     meta: {
       icon: 'ios-stats',
@@ -201,7 +201,7 @@ export default [
     ]
   },
   {
-    path: '/tools_methods',
+    path: '/',
     name: 'tools_methods',
     meta: {
       hide: true
@@ -220,7 +220,7 @@ export default [
     ]
   },
   {
-    path: '/directive',
+    path: '/',
     name: 'directive',
     meta: {
       hide: true
@@ -239,7 +239,7 @@ export default [
     ]
   },
   {
-    path: '/multilevel',
+    path: '/',
     name: 'multilevel',
     meta: {
       icon: 'md-menu',
